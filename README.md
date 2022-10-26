@@ -12,15 +12,33 @@ Companies that will pay a fee to Amazon and may provide free products to Vine me
 
 The Analysis is below
 
-### Results
+## Results
 
-- Total number of paid Vine Reviews Vs. non paid Vine Reviews
+### Total number of paid Vine Reviews Vs. non paid Vine Reviews
+
+<img src = "Resources/Paid_reviews.png" width=60% height=60% ></img>
+
+Paid Review
+
+<img src = "Resources/unpaid_reviews.png" width=60% height=60% ></img>
+
+Unpaid Review 
+
+### Number of paid 5-Star Vine Reviews Vs. non paid 5-Star Vine Reviews 
+<img src = "Resources/paid_5_star_reviews.png" width=60% height=60% ></img>
+
+Paid 5-Star Vine reviews
+
+<img src = "Resources/unpaid_5_star_reviews.png" width=60% height=60% ></img>
+
+Unpaid 5-Star Vine Reviews
+
+### Percentage of paid 5-Star Vine Reviews Vs. non paid 5-Star Vine Reviews
+<img src = "Resources/paid_percent.png" width=60% height=60% ></img>
+
+Paid Percentage
 
 
-- Number of paid 5-Star Vine Reviews Vs. non paid 5-Star Vine Reviews 
+<img src = "Resources/unpaid_percent.png" width=60% height=60% ></img>
 
-
-- Percentage of paid 5-Star Vine Reviews Vs. non paid 5-Star Vine Reviews
-
-
-
+Unpaid Percentage
