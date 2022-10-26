@@ -42,3 +42,7 @@ Paid Percentage
 <img src = "Resources/unpaid_percent.png" width=60% height=60% ></img>
 
 Unpaid Percentage
+
+## Summary
+
+Upon reviewing the analysis it seems that there is not positive bias from the paid vine members. The 5-star review percentage is ~ 42% where as the unpaid percentage is ~53%.
